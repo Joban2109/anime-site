@@ -57,9 +57,6 @@ If you encounter any strange bugs on the website, please let me know by  going t
 > If you want to self host this app, please note that it's only allowed for personal use; **commercial use is not permitted**
 
 1. Clone this repository:
-```bash
-
-```
 2. Go into the project folder and install dependencies using npm:
 ```bash
 npm install
