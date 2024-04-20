@@ -58,7 +58,7 @@ If you encounter any strange bugs on the website, please let me know by  going t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Jeydin21/Munchyroll.git
+
 ```
 2. Go into the project folder and install dependencies using npm:
 ```bash
